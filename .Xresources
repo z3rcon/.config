@@ -19,10 +19,10 @@ URxvt.font:xft:bitstream vera sans mono:size=11:antialias=truee
 URxvt*depth:             32
 !URxvt*transparent:      true
 !URxvt*shading:           90
-URxvt*background:      [80]#32302f
+!URxvt*background:      [80]#32302f
 !URxvt*background:       [90]#1d2021
-!URxvt*background:	[80]#282828
-!URxvt*background:        [80]#2b303b
+URxvt*background:	[90]#282828
+!URxvt*background:        [90]#2b303b
 URxvt*foreground:        #F8F8FF
 URxvt*underlineColor:    #4682B4
 URxvt*highlightColor:    #4682B4
@@ -32,7 +32,7 @@ URxvt*scrollBar:         false
 URxvt*scrollTtyOutput:   false
 URxvt*scrollWithBuffer:  true
 URxvt*scrollTtyKeypress: true
-URxvt*internalBorder:    20
+URxvt*internalBorder:    25
 URxvt*externalBorder:    0
 URxvt*colorIT:      	 #87af5f
 URxvt*colorBD:      	 #c5c8c6
